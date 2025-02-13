@@ -39,12 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sarukeshwar2016/sarukeshwar2016/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/sarukeshwar2016/count.svg?"  />
 </div>
