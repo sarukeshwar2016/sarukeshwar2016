@@ -53,7 +53,7 @@
 ## 🔥 GitHub Streak
 <p align="center">
   <img 
-    src="https://streak-stats.herokuapp.com/?user=sarukeshwar2016&theme=dracula" 
+    src="https://streak-stats.demolab.com/?user=sarukeshwar2016&theme=dracula" 
   />
 </p>
 
