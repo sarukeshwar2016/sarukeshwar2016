@@ -16,6 +16,33 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dracula" 
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img 
+    src="https://streak-stats.herokuapp.com/?user=sarukeshwar2016&theme=dracula" 
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sarukeshwar2016&theme=dracula&no-frame=true&column=6" 
+  />
+</p>
+
+---
+
 ## ⚙️ Tech Stack
 <div align="left">
 
@@ -43,30 +70,3 @@
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" />
 
 </div>
-
----
-
-## 🌐 Connect With Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/sarukeshwar-s-75b145219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sarukeshwar2016" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarukeshwar2016&style=for-the-badge&color=blue" />
-</p>
-
----
-
-<img align="right" height="150" src="https://media.tenor.com/yWFnaCMWn6oAAAAM/batman-cape.gif" />
-
----
-
-⭐ **If you like my profile, consider giving a star to my repositories!**
