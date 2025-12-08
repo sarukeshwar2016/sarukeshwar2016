@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Cloud | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F70000&center=true&vCenter=true&width=550&lines=Passionate+Developer;Cloud+%26+Backend+Learner;DSA+in+Python;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F70000&center=true&vCenter=true&width=550&lines=Passionate+Developer;Cloud+%26+Backend+Learner;DSA+in+Python;Always+Learning" />
 </p>
 
 ---
@@ -13,28 +13,27 @@
 - ☁️ Learning Cloud & DevOps  
 - 🔥 LeetCode & DSA in Python  
 - 🚀 Building real-world applications  
-- 💡 Motto: *Build. Break. Learn. Repeat.*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FIXED)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dracula&hide_border=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarukeshwar2016&layout=compact&theme=dracula&hide_border=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dracula&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarukeshwar2016&layout=compact&theme=dracula&border_radius=10" height="170"/>
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak (FIXED)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarukeshwar2016&theme=dracula&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com?user=sarukeshwar2016&theme=dracula&border_radius=10"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (FIXED)
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarukeshwar2016&theme=dracula&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarukeshwar2016&theme=dracula&no-frame=true&margin-w=10"/>
 </div>
 
 ---
@@ -50,7 +49,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
 
-### ⚡ Frameworks & Libraries:
+### ⚡ Frameworks:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
 
@@ -58,7 +57,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
 
-### 🧰 Tools & OS:
+### 🧰 Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
@@ -74,7 +73,6 @@
   <a href="https://www.linkedin.com/in/sarukeshwar-s-75b145219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/sarukeshwar2016" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -82,14 +80,9 @@
 
 ---
 
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarukeshwar2016&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
----
-
-## 👀 Visitor Count
+## 👀 Visitor Count (FIXED & STABLE)
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sarukeshwar2016/count.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=sarukeshwar2016&style=for-the-badge&color=blue"/>
 </div>
 
 ---
