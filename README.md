@@ -15,6 +15,7 @@
 - 🚀 Building real-world applications  
 
 ---
+
 ## ⚙️ Tech Stack
 <div align="left">
 
@@ -41,10 +42,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" />
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" />
 
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dracula" 
+    alt="GitHub Stats"
   />
 </p>
 
@@ -54,6 +60,7 @@
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com/?user=sarukeshwar2016&theme=dracula" 
+    alt="GitHub Streak"
   />
 </p>
 
@@ -63,11 +70,8 @@
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=sarukeshwar2016&theme=dracula&no-frame=true&column=6" 
+    alt="GitHub Trophies"
   />
 </p>
 
 ---
-
-
-
-</div>
