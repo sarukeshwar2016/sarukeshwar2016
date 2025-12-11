@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarukeshwar</h1>
 <h3 align="center">Full Stack Developer | Cloud | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=F70000&center=true&vCenter=true&width=550&lines=Passionate+Developer;Full+Stack+Learner;DSA+in+Python;Always+Learning+New+Things" />
-</p>
 
 ---
 
