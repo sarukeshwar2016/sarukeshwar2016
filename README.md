@@ -11,7 +11,6 @@
 - 🎓 B.E Student (Graduating 2027)  
 - 💻 Full Stack + Backend Developer  
 - ☁️ Learning Cloud & DevOps  
-- 🔥 DSA in Python  
 - 🚀 Building real-world applications  
 
 ---
@@ -46,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats (Nirzak)
+## 📊 GitHub Stats 
 <p align="center">
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=sarukeshwar2016&theme=dark&hide_border=false" 
