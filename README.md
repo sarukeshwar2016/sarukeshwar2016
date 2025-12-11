@@ -46,32 +46,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Nirzak)
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dracula" 
-    alt="GitHub Stats"
+    src="https://nirzak-streak-stats.vercel.app/?user=sarukeshwar2016&theme=dark&hide_border=false" 
+    alt="GitHub Streak" 
+  />
+  <br/><br/>
+  
+  <img 
+    src="https://nirzak-github-stats.vercel.app/api?username=sarukeshwar2016&theme=dark&hide_border=false" 
+    alt="GitHub Stats" 
+  />
+  <br/><br/>
+
+  <img 
+    src="https://nirzak-github-stats.vercel.app/api/top-langs/?username=sarukeshwar2016&theme=dark&hide_border=false&layout=compact" 
+    alt="Top Languages" 
+  />
+  <br/><br/>
+
+  <img 
+    src="https://nirzak-activity-graph.vercel.app/graph?username=sarukeshwar2016&theme=react-dark&hide_border=true" 
+    alt="Activity Graph" 
   />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=sarukeshwar2016&theme=dracula" 
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=sarukeshwar2016&theme=dracula&no-frame=true&column=6" 
-    alt="GitHub Trophies"
-  />
-</p>
-
----
