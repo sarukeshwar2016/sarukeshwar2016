@@ -52,13 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dark" />
   <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarukeshwar2016&layout=compact&theme=dark&hide=html,css" />
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarukeshwar2016&theme=react-dark" />
-
 </p>
 
 ---
