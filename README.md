@@ -45,7 +45,7 @@
 <p align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarukeshwar2016&theme=dark" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sarukeshwar2016&theme=dark&hide_border=false" />
   <br/><br/>
 
   <!-- GitHub Stats -->
