@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarukeshwar</h1>
 <h3 align="center">Full Stack Developer | Cloud | Problem Solver</h3>
 
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -42,31 +41,24 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 <p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=sarukeshwar2016&theme=dark&hide_border=false" 
-    alt="GitHub Streak" 
-  />
-  <br/><br/>
-  
-  <img 
-    src="https://nirzak-github-stats.vercel.app/api?username=sarukeshwar2016&theme=dark&hide_border=false" 
-    alt="GitHub Stats" 
-  />
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarukeshwar2016&theme=dark" />
   <br/><br/>
 
-  <img 
-    src="https://nirzak-github-stats.vercel.app/api/top-langs/?username=sarukeshwar2016&theme=dark&hide_border=false&layout=compact" 
-    alt="Top Languages" 
-  />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dark" />
   <br/><br/>
 
-  <img 
-    src="https://nirzak-activity-graph.vercel.app/graph?username=sarukeshwar2016&theme=react-dark&hide_border=true" 
-    alt="Activity Graph" 
-  />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarukeshwar2016&layout=compact&theme=dark&hide=html,css" />
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarukeshwar2016&theme=react-dark" />
+
 </p>
 
 ---
-
