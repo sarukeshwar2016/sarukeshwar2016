@@ -15,6 +15,7 @@ Concepts   →  Distributed Systems · Real-time Processing · Load Balancing
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarukeshwar2016&theme=tokyonight&hide_border=true" />
 </div>
 ---
-<div align="center">
-[LinkedIn](https://www.linkedin.com/in/sarukeshwar-s-75b145219/) &nbsp;·&nbsp; [sarukeshwar2016@gmail.com](mailto:sarukeshwar2016@gmail.com)
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarukeshwar-s-75b145219/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:sarukeshwar2016@gmail.com">sarukeshwar2016@gmail.com</a>
+</p>
