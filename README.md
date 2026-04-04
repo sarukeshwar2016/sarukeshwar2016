@@ -16,6 +16,5 @@ Concepts   →  Distributed Systems · Real-time Processing · Load Balancing
 </div>
 ---
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sarukeshwar--s-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarukeshwar-s-75b145219/)
-[![Email](https://img.shields.io/badge/Email-sarukeshwar2016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarukeshwar2016@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sarukeshwar-s-75b145219/) &nbsp;·&nbsp; [sarukeshwar2016@gmail.com](mailto:sarukeshwar2016@gmail.com)
 </div>
