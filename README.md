@@ -10,54 +10,7 @@ About Me 🚀
 ✅ I am passionate about Distributed Systems, Microservices, and Cloud Infrastructure.
 ✅ I enjoy learning new things and working on challenging problems.
 
-<div align="center">
-Sarukeshwar's GitHub Stats
-<table>
-  <tr>
-    <td>
-      <b>⭐ Total Stars:</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/See_Stats_Card_Below-00A8FF?style=flat-square&labelColor=000000" alt="stars"/>
-    </td>
-    <td rowspan="5" align="center">
-      <img src="https://img.shields.io/badge/A+-00A8FF?style=for-the-badge&labelColor=000000&fontSize=72" width="120" height="120" alt="Grade"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📝 Total Commits:</b>
-    </td>
-    <td>
-       <img src="https://img.shields.io/badge/See_Stats_Card_Below-00A8FF?style=flat-square&labelColor=000000" alt="commits"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📂 Total PRs:</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Total_PRs-50%2B-00A8FF?style=flat-square&labelColor=000000" alt="PRs"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>❗ Total Issues:</b>
-    </td>
-    <td>
-       <img src="https://img.shields.io/badge/Total_Issues-20%2B-00A8FF?style=flat-square&labelColor=000000" alt="Issues"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>🤝 Contributed to:</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Multiple_Projects-00A8FF?style=flat-square&labelColor=000000" alt="Contributed"/>
-    </td>
-  </tr>
-</table>
-</div>
+
 
 🛠️ Tech Stack
 Backend Development
