@@ -1,8 +1,8 @@
 Hey 👋, I'm Sarukeshwar!
 <p align="left">
-  <a href="https://github.com/sarukeshwar2016"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=D4AF37" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/sarukeshwar-s-75b145219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
-  <a href="mailto:sarukeshwar2016@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
+  <a href="https://github.com/sarukeshwar2016"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00A8FF" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sarukeshwar-s-75b145219/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A8FF" alt="LinkedIn"/></a>
+  <a href="mailto:sarukeshwar2016@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00A8FF" alt="Email"/></a>
 </p>
 
 About Me 🚀
@@ -18,10 +18,10 @@ Sarukeshwar's GitHub Stats
       <b>⭐ Total Stars:</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?color=D4AF37&label=&query=stars&url=https://api.github-star-counter.workers.dev/user/sarukeshwar2016&style=flat-square&labelColor=1a1a1a" alt="stars"/>
+      <img src="https://img.shields.io/badge/dynamic/json?color=00A8FF&label=&query=stars&url=https://api.github-star-counter.workers.dev/user/sarukeshwar2016&style=flat-square&labelColor=000000" alt="stars"/>
     </td>
     <td rowspan="5" align="center">
-      <img src="https://img.shields.io/badge/A+-D4AF37?style=for-the-badge&labelColor=1a1a1a&fontSize=72" width="120" height="120" alt="Grade"/>
+      <img src="https://img.shields.io/badge/A+-00A8FF?style=for-the-badge&labelColor=000000&fontSize=72" width="120" height="120" alt="Grade"/>
     </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@ Sarukeshwar's GitHub Stats
       <b>📝 Total Commits (2024):</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?color=D4AF37&label=&query=commits&url=https://api.github-contributions.vercel.app/?username=sarukeshwar2016&style=flat-square&labelColor=1a1a1a" alt="commits"/>
+      <img src="https://img.shields.io/badge/dynamic/json?color=00A8FF&label=&query=commits&url=https://api.github-contributions.vercel.app/?username=sarukeshwar2016&style=flat-square&labelColor=000000" alt="commits"/>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ Sarukeshwar's GitHub Stats
       <b>📂 Total PRs:</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Dynamic-Check%20Profile-D4AF37?style=flat-square&labelColor=1a1a1a" alt="PRs"/>
+      <img src="https://img.shields.io/badge/Dynamic-Check%20Profile-00A8FF?style=flat-square&labelColor=000000" alt="PRs"/>
     </td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ Sarukeshwar's GitHub Stats
       <b>❗ Total Issues:</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Dynamic-Check%20Profile-D4AF37?style=flat-square&labelColor=1a1a1a" alt="Issues"/>
+      <img src="https://img.shields.io/badge/Dynamic-Check%20Profile-00A8FF?style=flat-square&labelColor=000000" alt="Issues"/>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Sarukeshwar's GitHub Stats
       <b>🤝 Contributed to:</b>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Multiple-Projects-D4AF37?style=flat-square&labelColor=1a1a1a" alt="Contributed"/>
+      <img src="https://img.shields.io/badge/Multiple-Projects-00A8FF?style=flat-square&labelColor=000000" alt="Contributed"/>
     </td>
   </tr>
 </table>
@@ -83,17 +83,17 @@ Databases
 </p>
 Core Concepts
 <p>
-  <img src="https://img.shields.io/badge/Distributed_Systems-D4AF37?style=for-the-badge&labelColor=1a1a1a" alt="Distributed Systems"/>
-  <img src="https://img.shields.io/badge/Microservices-D4AF37?style=for-the-badge&labelColor=1a1a1a" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/System_Design-D4AF37?style=for-the-badge&labelColor=1a1a1a" alt="System Design"/>
-  <img src="https://img.shields.io/badge/Load_Balancing-D4AF37?style=for-the-badge&labelColor=1a1a1a" alt="Load Balancing"/>
+  <img src="https://img.shields.io/badge/Distributed_Systems-00A8FF?style=for-the-badge&labelColor=000000" alt="Distributed Systems"/>
+  <img src="https://img.shields.io/badge/Microservices-00A8FF?style=for-the-badge&labelColor=000000" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/System_Design-00A8FF?style=for-the-badge&labelColor=000000" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Load_Balancing-00A8FF?style=for-the-badge&labelColor=000000" alt="Load Balancing"/>
 </p>
 
 📊 GitHub Activity
 <div align="center">
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=sarukeshwar2016&theme=dark&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&currStreakNum=C9D1D9&dates=8B8B8B&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sarukeshwar2016&theme=dark&hide_border=true&background=000000&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=00A8FF&currStreakNum=C9D1D9&dates=8B8B8B&border_radius=10" alt="GitHub Streak" />
 </a>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sarukeshwar2016&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00A8FF&icon_color=00A8FF&text_color=C9D1D9&border_radius=10" alt="GitHub Stats" />
 </div>
