@@ -1,6 +1,5 @@
 Hey 👋, I'm Sarukeshwar!
 <p align="left">
-  <a href="https://github.com/sarukeshwar2016"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00A8FF" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/sarukeshwar-s-75b145219/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A8FF" alt="LinkedIn"/></a>
   <a href="mailto:sarukeshwar2016@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00A8FF" alt="Email"/></a>
 </p>
